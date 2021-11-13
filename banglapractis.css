@@ -1,0 +1,204 @@
+
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.main{
+  display: flex;
+ }
+ 
+.header{
+  background-color: rgba(179, 179, 175, 0.87);
+  height: 150px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 30px;
+ display: flex;
+ justify-content: space-evenly;
+ align-items: center;
+ 
+}
+.sele{
+  background-color: rgb(16, 85, 233);
+  height: 70px;
+  width: 250px;
+  display: flex;
+  justify-content: space-evenly;
+ align-items: center;
+}
+.amichoto{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(243, 33, 243);
+}
+
+.first-div{
+height: 570px;
+width: 1000px;
+margin-left: 100px;
+margin-top: 30px;
+display: flex;
+justify-content: space-evenly;
+background-color: rgba(179, 179, 175, 0.87);
+}
+.amratin1{
+ 
+  width: 380px;
+  height: 528px;
+  margin: 20px;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: red;
+}
+.amra1{
+  background-color: rgb(0, 255, 255);
+  width: 250px;
+  height: 50px;
+  margin-top: 10px;
+  
+}
+.amra2{
+  background-color: rgb(0, 255, 255);
+  width: 60px;
+  height: 50px;
+  margin-top: 10px;
+  
+}
+
+.amratin2{
+  
+  width: 350px;
+  height: 280px;
+  margin: 20px;
+  background-color: red;
+
+
+}
+.amratin3{
+  
+  width: 350px;
+  height: 230px;
+  margin: 20px;
+  background-color: red;
+  
+}
+
+
+.second-div{
+
+height: 570px;
+width: 300px;
+margin-top: 30px;
+margin-left: 30px;
+margin-right: 100px;
+
+background-color:  rgba(179, 179, 175, 0.87);
+
+}
+.kego{
+  display: flex;
+
+}
+.amrago{
+  background-color: rgb(156, 235, 238);
+  height: 70px;
+  width: 70px;
+  margin: 14px;
+  flex-grow: 1;
+}
+
+.amrago1{
+  background-color: rgb(110, 247, 213);
+  height: 70px;
+  width: 70px;
+  margin: 14px;
+}
+.amratin2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+.amratin2bassa1{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(238, 215, 11);
+  margin: 20px;
+}
+.amratin2bassa2{
+  align-self: flex-end;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(238, 215, 11);
+  margin: 20px;
+}
+
+ 
+
+.amratin3{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ 
+  
+}
+.kaka{
+  background-color: rgb(174, 197, 195);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  align-self: center;
+  
+ 
+ 
+}
+.kaka1{
+  background-color: rgb(35, 41, 129);
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+  align-self: center;
+}
+.final{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 14px;
+}
+.khelahobe{
+  background-color: rgb(18, 110, 18);
+  height: 50px;
+  width: auto;
+  margin: 5px;
+ 
+  
+}
+.final2{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  justify-content: space-between;
+  margin: 20px;
+  
+
+}
+.khelahobe1{
+  background-color: rgb(18, 110, 18);
+  height: 250px;
+  width: 50px;
+}
+.fina3{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 15px;
+  
+}
+.khelahobe2{
+  background-color: rgb(18, 110, 18);
+  height: 50px;
+  width: auto;
+  margin: 5px;
+ 
+}
